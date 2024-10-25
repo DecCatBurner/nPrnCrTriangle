@@ -1,0 +1,14 @@
+c:\GitHub\nPrnCrTriangle\nPrnCrTriangle\bin\Debug\net8.0\nPrnCrTriangle.exe
+c:\GitHub\nPrnCrTriangle\nPrnCrTriangle\bin\Debug\net8.0\nPrnCrTriangle.deps.json
+c:\GitHub\nPrnCrTriangle\nPrnCrTriangle\bin\Debug\net8.0\nPrnCrTriangle.runtimeconfig.json
+c:\GitHub\nPrnCrTriangle\nPrnCrTriangle\bin\Debug\net8.0\nPrnCrTriangle.dll
+c:\GitHub\nPrnCrTriangle\nPrnCrTriangle\bin\Debug\net8.0\nPrnCrTriangle.pdb
+c:\GitHub\nPrnCrTriangle\nPrnCrTriangle\obj\Debug\net8.0\nPrnCrTriangle.GeneratedMSBuildEditorConfig.editorconfig
+c:\GitHub\nPrnCrTriangle\nPrnCrTriangle\obj\Debug\net8.0\nPrnCrTriangle.AssemblyInfoInputs.cache
+c:\GitHub\nPrnCrTriangle\nPrnCrTriangle\obj\Debug\net8.0\nPrnCrTriangle.AssemblyInfo.cs
+c:\GitHub\nPrnCrTriangle\nPrnCrTriangle\obj\Debug\net8.0\nPrnCrTriangle.csproj.CoreCompileInputs.cache
+c:\GitHub\nPrnCrTriangle\nPrnCrTriangle\obj\Debug\net8.0\nPrnCrTriangle.dll
+c:\GitHub\nPrnCrTriangle\nPrnCrTriangle\obj\Debug\net8.0\refint\nPrnCrTriangle.dll
+c:\GitHub\nPrnCrTriangle\nPrnCrTriangle\obj\Debug\net8.0\nPrnCrTriangle.pdb
+c:\GitHub\nPrnCrTriangle\nPrnCrTriangle\obj\Debug\net8.0\nPrnCrTriangle.genruntimeconfig.cache
+c:\GitHub\nPrnCrTriangle\nPrnCrTriangle\obj\Debug\net8.0\ref\nPrnCrTriangle.dll

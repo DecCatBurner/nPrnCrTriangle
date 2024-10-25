@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "nPrnCrTriangle/1.0.0": {
+        "runtime": {
+          "nPrnCrTriangle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nPrnCrTriangle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
