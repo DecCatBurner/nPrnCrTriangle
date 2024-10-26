@@ -12,3 +12,4 @@ c:\GitHub\nPrnCrTriangle\nPrnCrTriangle\obj\Debug\net8.0\refint\nPrnCrTriangle.d
 c:\GitHub\nPrnCrTriangle\nPrnCrTriangle\obj\Debug\net8.0\nPrnCrTriangle.pdb
 c:\GitHub\nPrnCrTriangle\nPrnCrTriangle\obj\Debug\net8.0\nPrnCrTriangle.genruntimeconfig.cache
 c:\GitHub\nPrnCrTriangle\nPrnCrTriangle\obj\Debug\net8.0\ref\nPrnCrTriangle.dll
+c:\GitHub\nPrnCrTriangle\nPrnCrTriangle\obj\Debug\net8.0\nPrnCrTriangle.sourcelink.json
